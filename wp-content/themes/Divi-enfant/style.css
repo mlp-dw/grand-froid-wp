@@ -1,0 +1,22 @@
+/*
+Theme Name: Divi Enfant
+Template: Divi
+Description: Divi Theme Enfant
+Author: MLP
+Author URI: https://mlp-dw.github.io/portfolio/
+*/
+#wpcf7-f221-p206-o1 > form > div:nth-child(6) > div > span > span > span > label > span {
+	color: white;
+}
+#mobile_menu1{
+	background-color: #434343;
+	border: none;
+	width: 50%;
+}
+@media (max-width: 630px) {
+	#mobile_menu1{
+	background-color: #434343;
+	border: none;
+	width: 80%;
+	}
+}
